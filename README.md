@@ -28,4 +28,4 @@ A fully functional web-based complaint and service request management system des
 
 | Frontend  | Backend | Database | Libraries |
 |-----------|---------|----------|-----------|
-| React.js  | N/A     | SQLite (if used) or none | CoreUI, Bootstrap, React Icons, React Router, MUI |
+| React.js  | N/A     | SQL | CoreUI, Bootstrap, React Icons, React Router, MUI |
